@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756301725702",
+    "firebase_url": "https://childrencare-c630d.firebaseio.com",
+    "project_id": "childrencare-c630d",
+    "storage_bucket": "childrencare-c630d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756301725702:android:50ca0dd7dab3bde3",
+        "android_client_info": {
+          "package_name": "com.chindrencare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756301725702-e0ni7f43v4kg970o6l5mmsd19l7o0vkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtamr78Um4X3j93ZGXsmQMwiXZ9xFHWgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

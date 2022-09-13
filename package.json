@@ -1,0 +1,35 @@
+{
+  "name": "ChildrenCare",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "ios": "open ios/ChindrenCare.xcworkspace"
+  },
+  "dependencies": {
+    "native-base": "^2.8.1",
+    "react": "16.6.1",
+    "react-native": "0.57.5",
+    "react-native-camera": "^1.4.1",
+    "react-native-dimensions": "0.0.1",
+    "react-native-firebase": "^5.1.0",
+    "react-native-fs": "^2.12.1",
+    "react-native-i18n": "^2.0.15",
+    "react-native-maps": "^0.22.1",
+    "react-native-qrcode": "^0.2.7",
+    "react-native-qrcode-scanner": "^1.1.0",
+    "react-native-responsive-dimensions": "^2.0.1",
+    "react-native-view-shot": "^2.5.0",
+    "react-navigation": "^2.18.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.49.1",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

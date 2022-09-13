@@ -1,0 +1,107 @@
+{
+    "app_name":{
+        "value": "Tadaima"
+    },
+    "login_parent_title":{
+        "value": "Parents"
+    },
+    "login_children_title":{
+        "value": "Children"
+    },
+    "login_button_email_title":{
+        "value": "Login with email address"
+    },
+    "login_button_phone_title":{
+        "value": "Login with phone number"
+    },
+    "signup_button_email_title":{
+        "value": "Register with email address"
+    },
+    "signup_button_phone_title":{
+        "value": "Register with phone number"
+    },
+    "signup_mode_button_title":{
+        "value": "Already have account ?"
+    },
+    "login_mode_button_title":{
+        "value": "Register new account ?"
+    },
+    "login_button_scanqr_title":{
+        "value": "Scan QR"
+    },
+    "login_button_library_title":{
+        "value": "Login with library"
+    },
+    "mobile_number_text_placeholder":{
+        "value": "Enter mobile number"
+    },
+    "terms_and_condition_title":{
+        "value": "Terms and condition"
+    },
+    "login_text_email_placeholder":{
+        "value": "Email"
+    },
+    "login_text_password_placeholder":{
+        "value": "Password"
+    },
+    "email_login_button_title":{
+        "value": "Sign In"
+    },
+    "email_signup_button_title":{
+        "value": "Register"
+    },
+    "parent_family_name_placeholder_title":{
+        "value": "Enter family name"
+    },
+    "parent_set_home_button_title":{
+        "value": "Set home location"
+    },
+    "parent_add_children_button_title":{
+        "value": "Add your children"
+    },
+    "child_name_label_placeholder_title":{
+        "value": "Child name"
+    },
+    "child_age_label_placeholder_title":{
+        "value": "Age"
+    },
+    "child_contact_number_label_placeholder_title":{
+        "value": "Emergency contact number"
+    },
+    "child_generate_qr_button_title":{
+        "value": "Generate QR"
+    },
+    "parent_qr_code_desc_title":{
+        "value": "Bring child phone and scan"
+    },
+    "parent_qr_save_button_title":{
+        "value": "Save to Gallery"
+    },
+    "children_qr_scan_complete_button_title":{
+        "value": "Scan complete"
+    },
+    "children_qr_description_label_title":{
+        "value": "Notification will be sent to your parents automatically when you reach home!"
+    },
+    "children_qr_accept_gps_button_title":{
+        "value": "Accept GPS permission"
+    },
+    "main_manually_update_button_title":{
+        "value": "Manually Update Location"
+    },
+    "alert_empty_familyname_text": {
+        "value": "Please insert your family name"
+    },
+    "alert_empty_child_name_title":{
+        "value": "Please insert child name"
+    },
+    "alert_empty_child_age_title":{
+        "value": "Please insert child age"
+    },
+    "alert_empty_child_number_title":{
+        "value": "Please insert emergency contact number"
+    },
+    "alert_empty_home_location":{
+        "value": "Please set your home location"
+    }
+}
